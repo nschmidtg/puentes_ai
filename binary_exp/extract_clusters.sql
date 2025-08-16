@@ -1,0 +1,1 @@
+select academic_resource_id, name from clusters;
