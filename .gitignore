@@ -1,1 +1,10 @@
 binary_exp/generate_embeddings.py
+binary_exp/from_db.csv
+binary_exp/clusters.csv
+binary_exp/embeddings_cache.pkl
+binary_exp/.ipynb_checkpoints/*
+binary_exp/pairs_with_embeddings.csv
+deprecated/*
+multiclass_baseline/*
+.ipynb_checkpoints/*
+.DS_Store
