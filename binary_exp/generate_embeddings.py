@@ -20,7 +20,7 @@ SAVE_EVERY = 5             # save cache every X batches
 SLEEP_BETWEEN_BATCHES = 0.1
 MAX_RETRIES = 5
 RETRY_BACKOFF = 2.0        # exponential backoff factor
-API_KEY = ""
+API_KEY = ""  # Set your OpenAI API key here or via environment variable
 # ----------------------------------
 
 def load_cache(path):
