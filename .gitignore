@@ -5,6 +5,7 @@ binary_exp/embeddings_cache.pkl
 binary_exp/.ipynb_checkpoints/*
 binary_exp/pairs_with_embeddings.csv
 deprecated/*
+binary_exp/models/*
 multiclass_baseline/*
 .ipynb_checkpoints/*
 .DS_Store
