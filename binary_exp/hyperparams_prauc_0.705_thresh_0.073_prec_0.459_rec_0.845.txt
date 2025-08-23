@@ -5,3 +5,4 @@ Optimal dropout in first layer: 0.4
 Optimal units in second layer: 64
 Optimal dropout in second layer: 0.30000000000000004
 Optimal learning rate: 0.001
+NO SMOTE

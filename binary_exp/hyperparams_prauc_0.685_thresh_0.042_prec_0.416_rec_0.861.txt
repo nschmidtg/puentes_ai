@@ -1,0 +1,8 @@
+
+The hyperparameter search is complete.
+Optimal units in first layer: 928
+Optimal dropout in first layer: 0.4
+Optimal units in second layer: 192
+Optimal dropout in second layer: 0.2
+Optimal learning rate: 0.0001
+WITH SMOTE

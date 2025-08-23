@@ -7,4 +7,4 @@ Optimal dropout in second layer: 0.2
 Optimal units in third layer: 64
 Optimal dropout in third layer: 0.30000000000000004
 Optimal learning rate: 0.0001
-
+NO SMOTE
